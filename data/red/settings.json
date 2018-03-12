@@ -1,0 +1,19 @@
+{
+    "388763101601726464" : {
+        "ADMIN_ROLE" : "ELO Support",
+        "MOD_ROLE" : "Manager",
+        "PREFIXES" : []
+    },
+    "EMAIL" : null,
+    "OWNER" : "222925389641547776",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "!"
+    ],
+    "TOKEN" : "Mzg4NTU4NTM2MjYwNzE0NDk4.DX43JQ.rvamO-tKl9CmJ0jImrEP4ZiJI4E",
+    "default" : {
+        "ADMIN_ROLE" : "Server Manager",
+        "MOD_ROLE" : "Manager",
+        "PREFIXES" : []
+    }
+}

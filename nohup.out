@@ -1,0 +1,9 @@
+Trying location provider `geoclue2'...
+Using provider `geoclue2'.
+`RANDR Query Version' returned error -1
+Initialization of randr failed.
+Trying next method...
+X request failed: XOpenDisplay
+Initialization of vidmode failed.
+Trying next method...
+No more methods to try.
